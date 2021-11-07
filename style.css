@@ -1,7 +1,8 @@
+/* Border-box styling, all contents to be displayed within a border/box */
 * {
     box-sizing: border-box;
 }
-
+/* Body styling so all components remaon consistent in font-styling, aliginment, margin etc.. */
 body {
     background-color: rgb(253, 253, 253);
     color: rgb(0, 0, 0);
@@ -34,7 +35,7 @@ body {
     padding: 1rem;
     overflow: auto;
 }
-
+/* button classes to add intercativity to the button styling when it is pressed the styling should change */
 .pw button {
     background-color: rgb(189, 52, 52);
     border: none;
@@ -66,7 +67,7 @@ body {
     justify-content: space-between;
     margin: 0.75rem 0;
 }
-
+/* Bolder colours and stying for the genertae class so it is clear the function has been executed through a chnage in styling */
 .generate {
     background-color: #ff0000;
     border: none;
