@@ -24,9 +24,9 @@
 
 ## Hosting
 
-| Project                            | Password Generator URL                           |
-|------------------------------------|--------------------------------------------------|
-| Password Generator                 | <>                                               |
+| Project                            | Password Generator URL                                |
+|------------------------------------|-------------------------------------------------------|
+| Password Generator                 | <https://allan-ngwenya.github.io/Password-Generator/> |
 
 
 ## Contributers
