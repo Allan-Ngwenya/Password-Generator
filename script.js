@@ -1,5 +1,6 @@
 // Document method 'getElementById()' used to return Element object representing the element whose id property matches the specified strings below
-// Then called in the laast function if user selects the criteria
+// Then called in the last function if user selects the criteria
+// Id's have beem defined and linked to classes in the index.html page
 const pwEl = document.getElementById("pw");
 const lenEl = document.getElementById("len");
 const upperEl = document.getElementById("upper");
