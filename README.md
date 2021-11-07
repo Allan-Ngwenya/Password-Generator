@@ -7,8 +7,8 @@
 
 ## Structure
 
-- `/index.html` Is where the HTML code has been constructed and stored. 
-- `/style.css` Is where the CSS code has been constructed and stored. 
+- `index.html` Is where the HTML code has been constructed and stored. 
+- `style.css` Is where the CSS code has been constructed and stored. 
 - `script.js` Is where the Javascript used for the website has been stored. 
 
 ## Technology used
